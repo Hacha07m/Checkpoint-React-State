@@ -1,0 +1,24 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    background-color: #d6d6dd;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: 1px solid #000;
+    border-radius: 10px;
+
+}
+
+.prg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.image{
+    border-radius: 10px;
+    border: 1px solid #000;
+}
